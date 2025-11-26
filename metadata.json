@@ -1,0 +1,7 @@
+{
+  "name": "BIAC Smart Kiosk",
+  "description": "An intelligent public relations kiosk for Buddhamonthon Industrial and Community Education College, featuring an animated avatar, text chat, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
